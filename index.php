@@ -35,7 +35,7 @@
 
 
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Login</a></li>
+        <li><a href="#"><i class="fa fa-sign-in"></i> Login</a></li>
         <li><a href="#">Registrar-se</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
